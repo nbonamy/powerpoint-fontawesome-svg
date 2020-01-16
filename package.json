@@ -1,0 +1,24 @@
+{
+  "name": "powerpoint-fontawesome-svg",
+  "version": "1.0.0",
+  "description": "Create slides with fontawesome SVG icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbonamy/powerpoint-fontawesome-svg.git"
+  },
+  "author": "Nicolas Bonamy <nicolas@bonamy.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbonamy/powerpoint-fontawesome-svg/issues"
+  },
+  "homepage": "https://github.com/nbonamy/powerpoint-fontawesome-svg#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "image-size": "^0.8.3",
+    "pptxgenjs": "^3.0.1"
+  }
+}
